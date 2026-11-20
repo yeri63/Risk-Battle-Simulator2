@@ -26,8 +26,10 @@ Attack<br />Dice | Defend<br />Dice | Dice<br />Pairs | Battle<br />Outcome
 
 Notes:
 
-1. Army totals for each side are adjusted on each screen update based on the current dice throws.
+1. Start the application by pressing the P1 button. After the title screen it will prompt you 
 
-2. The program automatically rolls the maximum number of dice for each player to give the best odds for both. The program automatically reduces the number of attacking dice to maintain one army in the territory after the battle ends. It also reduces the number of defending dice when there are less than two armies remaining to defend the territory.
+2. Army totals for each side are adjusted on each screen update based on the current dice throws.
 
-3. You can stop the battle at any time, by pressing the HLT button above the brown INV button. The application was designed so that you could focus on the game, generating battle totals quickly vs. spending time repeatedly rolling dice and calculating wins and losses.
+3. The program automatically rolls the maximum number of dice for each player to give the best odds for both. The program automatically reduces the number of attacking dice to maintain one army in the territory after the battle ends. It also reduces the number of defending dice when there are less than two armies remaining to defend the territory.
+
+4. You can stop the battle at any time, by pressing the HLT button above the brown INV button. The application was designed so that you could focus on the game, generating battle totals quickly vs. spending time repeatedly rolling dice and calculating wins and losses.
