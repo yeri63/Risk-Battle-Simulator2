@@ -28,7 +28,7 @@ Notes:
 
 1. Start the application by pressing the P1 button. After the title screen it will prompt you for the number of attacking armies. Enter that, and press the EXE button. Next, enter the number of defending armies, followed by the EXE button. 
 
-2. During the battle, army totals for each side are displayed as "##:##", attacking armies followed by defending armies, updated after dice throws performed by the computer. This will continue, until all defending armies are depleted, or the attacking armies are reduced to 1.
+2. During the battle, army totals for each side are displayed as "##:##", attacking armies followed by defending armies, updated after dice throws for each player are completed by the computer. This will continue, until all defending armies are depleted, or the attacking armies are reduced to 1.
 
 3. The program automatically rolls the maximum number of dice for each player to give the best odds for both. The program automatically reduces the number of attacking dice to maintain one army in the territory after the battle ends. It also reduces the number of defending dice when there are less than two armies remaining to defend the territory.
 
