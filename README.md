@@ -13,7 +13,7 @@
 * Battle outcome is determine by comparing the highest dice each from the attacker and defender. If the attacker's dice is higher, the defender loses one army from the territory under attack. If less or a tie, the attacker looses one army from the territory leading the attack. If both players rolled more than one dice, compare the two next-highest dice and repeat using the same process.
 * Battle continues until there is only one army remaining in the territory leading the attack, or the defender has lost all of their armies in the territory being defended.<sup>3</sup>
 
-To demostrate, here is an example of possible battle scenarios along with the outcome of each, based on the dice thrown by each combatant. The pairs are used to determine battle outcomes, created from the highest dice thrown by each. 
+To demostrate, here is an example of possible battle scenarios along with the outcome of each, based on the dice thrown by each combatant. The pairs are used to determine battle outcomes, created from the highest dice thrown by each player. 
 <div align="center">
 
 Attack<br />Dice | Defend<br />Dice | Dice<br />Pairs | Battle<br />Outcome
