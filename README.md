@@ -1,7 +1,7 @@
 # Risk Battle Simulator
 <div align="center">
   
-![Screenshot of Risk Battle Simulator](risk-battle-sim.jpg)
+![Screenshot of Risk Battle Simulator](risk-battle.jpg)
 </div>
 <p>Risk was one of my favorite games to play in the 1980's with my high school friends. We would typically have 4 or more players, and during the course of the game, some would form alliances to not attack each other, but only focus on eliminating everyone else on their borders. Afterwards, the really large battles would begin, to see who would eventually domininate the world and win the game. When the battles starting approaching 100 or more armies, far too much time was spent rolling dice to determine the victor.</p>
 <p>This program addressed that problem head on, by both showing the actual dice throws on screen and shortening battle times to within 8 to 15 sec for battles of up to 100 defending armies. This application honors all of the rules stated in the game for attacks, such as the maximum number of dice each player can use, which dice to compare to determine outcome, how ties are handled, and how long can the battle continue based on armies remaining.</p>
